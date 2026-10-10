@@ -1,0 +1,2 @@
+model,split,seg_mIoU,seg_dice_foreground_only,seg_pixel_acc,cls_acc,cls_precision_macro,cls_recall_macro,cls_f1_macro
+ResNet34 U-Net (pretrained encoder),Test,0.9317,0.9589,0.9655,0.9432,0.9457,0.943,0.9431

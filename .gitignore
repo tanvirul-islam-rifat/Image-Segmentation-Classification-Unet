@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+venv/
+.venv/
+env/
+.env
+
+# Model weights / large artifacts (publish via GitHub Releases or Hugging Face instead)
+*.pth
+*.pt
+*.ckpt
+*.onnx
+
+# Datasets (download separately - see README)
+data/
+images_raw/
+annotations/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
