@@ -133,4 +133,4 @@ The notebook was developed and executed on **Kaggle (2× Tesla T4)**.
 ## Author
 **Md. Tanvirul Islam Rifat**
 - **GitHub:** [@tanvirul-islam-rifat](https://github.com/tanvirul-islam-rifat)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/YourLinkedInProfile)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/tanvirul-islam-rifat)
