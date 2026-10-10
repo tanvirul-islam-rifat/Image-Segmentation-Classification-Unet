@@ -1,4 +1,4 @@
-# Pet Segmentation & Breed Classification (U-Net, Attention U-Net, BiFPN, ResNet34-UNet)
+# Image Segmentation & Breed Classification (U-Net, Attention U-Net, BiFPN, ResNet34-UNet)
 
 A PyTorch multi-task pipeline that **segments the pet** and **classifies its breed (37 classes)** in a single forward pass, trained and benchmarked on the Oxford-IIIT Pet Dataset. Four encoder–decoder variants are compared against each other: Base U-Net, Attention U-Net, an EfficientDet-style BiFPN decoder, and a U-Net with an ImageNet-pretrained ResNet34 encoder. Built for **CSE428 — Image Processing** at BRAC University.
 
